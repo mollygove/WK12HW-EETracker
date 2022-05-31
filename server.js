@@ -8,10 +8,10 @@ const connection = mysql.createConnection({
   host: "localhost",
 
   // My port; 
-  port: 3306,
+  port: 3001,
 
   // Your username
-  user: "mollygove",
+  user: "root",
 
   // Your password
   password: "rootroot",
