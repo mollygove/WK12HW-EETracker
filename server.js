@@ -14,7 +14,7 @@ const connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "rootroot",
+  password: "YES",
   database: "WK12HW-EETracker"
 });
 
