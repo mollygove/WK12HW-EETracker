@@ -11,10 +11,10 @@ const connection = mysql.createConnection({
   port: 3306,
 
   // Your username
-  user: "root",
+  user: "mollygove",
 
   // Your password
-  password: "YES",
+  password: "rootroot",
   database: "WK12HW-EETracker"
 });
 
