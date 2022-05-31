@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS employee_info_db;
+DROP DATABASE IF EXISTS WK12HW-EETracker;
 
-CREATE DATABASE employee_info_db;
+CREATE DATABASE WK12HW-EETracker;
 
-USE employee_info_db;
+USE WK12HW-EETracker;
 
 CREATE TABLE department (
 
